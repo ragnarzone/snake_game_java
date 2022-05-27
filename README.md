@@ -1,2 +1,2 @@
 # snake_game_java
-Finished project with snake game
+Classical computer game implemented using swing and awt libraries
